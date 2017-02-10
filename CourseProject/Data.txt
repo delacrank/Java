@@ -1,0 +1,3 @@
+Pool length:10, Pool width:8, Pool avg depth:3, Pool volume:240,
+HotTub length:0, HotTub width:0, HotTub avg depth:0, HotTub volume:0, HotTub temperature:,
+HotTub length:15, HotTub width:3, HotTub avg depth:9, HotTub volume:405, HotTub temperature:86,
